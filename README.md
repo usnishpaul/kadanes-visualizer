@@ -4,8 +4,6 @@ A web-based visualization tool that animates the execution of **Kadane's Algorit
 
 This project was built to demonstrate the translation of algorithmic logic and dynamic programming concepts into an interactive, user-facing application using vanilla web technologies.
 
-## 🚀 Live Demo
-[Insert link to your GitHub Pages here once deployed, e.g., https://yourusername.github.io/kadanes-visualizer]
 
 ## ✨ Features
 * **Step-by-Step Animation:** Visually tracks the `current_sum` and `global_max` pointers as they traverse the array.
